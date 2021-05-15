@@ -1,0 +1,3 @@
+[console_scripts]
+minimap = minimap:main
+

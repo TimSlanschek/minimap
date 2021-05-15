@@ -1,0 +1,9 @@
+README.md
+minimap.py
+setup.py
+minimap.egg-info/PKG-INFO
+minimap.egg-info/SOURCES.txt
+minimap.egg-info/dependency_links.txt
+minimap.egg-info/entry_points.txt
+minimap.egg-info/requires.txt
+minimap.egg-info/top_level.txt
